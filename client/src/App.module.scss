@@ -1,0 +1,9 @@
+@use './common/styles/template';
+
+button {
+  @extend %button;
+}
+
+input {
+  @extend %input;
+}

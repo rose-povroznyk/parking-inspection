@@ -1,0 +1,9 @@
+@use '../../common/styles/template';
+
+.form-container {
+  @extend %form-container;
+}
+
+.form-title {
+  text-align: center;
+}
